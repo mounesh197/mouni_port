@@ -54,7 +54,7 @@
   });
 
   // ---- Contact form (opens the visitor's email app) ----
-  var CONTACT_EMAIL = "your.email@example.com"; // TODO: replace with your real email
+  var CONTACT_EMAIL = "mouneshmr197@gmail.com"; // TODO: replace with your real email
   var form = document.querySelector("form");
   if (form) {
     form.addEventListener("submit", function (e) {
